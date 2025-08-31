@@ -1,0 +1,8 @@
+# Requirements for computational_narrative.ipynb
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+jupyter
